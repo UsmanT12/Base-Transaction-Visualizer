@@ -2,6 +2,8 @@
 
 A real-time web application that visualizes blockchain transactions on the Base network (Layer 2). This MVP streams live block data including block numbers, transaction counts, and transaction hashes directly from the Base blockchain.
 
+🌐 **Live Demo**: [https://base-transaction-visualizer.vercel.app/](https://base-transaction-visualizer.vercel.app/)
+
 ## 🌟 Features
 
 - **Real-time Block Streaming**: Automatically updates as new blocks are mined on Base
