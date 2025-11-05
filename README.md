@@ -89,7 +89,7 @@ base-transaction-visualizer/
 
 ## 🎯 Key Features Explained
 
-### � **Dual Network Polling**
+### 🔄 **Dual Network Polling**
 
 The application runs two simultaneous polling loops - one for Base Mainnet and one for Sepolia Testnet. Both networks are continuously tracked in the background, caching up to 20 blocks each. When you switch networks, the cached data displays instantly with no waiting time.
 
@@ -97,7 +97,7 @@ The application runs two simultaneous polling loops - one for Base Mainnet and o
 
 Adjust the number of visible blocks from 2 to 20 using the slider control. The app maintains a cache of 20 blocks for each network, allowing instant updates as you move the slider. All metrics (TPS, gas usage, etc.) update in real-time based on visible blocks.
 
-### �📊 **Network Utilization Metric**
+### � **Network Utilization Metric**
 
 Displays the average gas utilization percentage across visible blocks using the formula:
 
